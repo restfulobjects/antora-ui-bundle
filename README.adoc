@@ -1,3 +1,5 @@
+THIS PROJECT HAS BEEN ARCHIVED AND MOVED TO https://gitlab.com/restfulobjects/antora-ui-bundle
+
 = Antora Default UI
 // Settings:
 :experimental:
